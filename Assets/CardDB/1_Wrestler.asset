@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec1f1bbc6c81b1249aa609416ef75af3, type: 3}
+  m_Name: 1_Wrestler
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  ID: 1
+  Type: 0
+  Skill: 1
+  Name: "\uB808\uC2AC\uB7EC"
+  SkillDesc: "\uACF5\uACA9\uD6C4 1\uD134\uAC04 \uD589\uB3D9\uBD88\uB2A5 \uC0C1\uD0DC\uB85C
+    \uB9CC\uB4E0\uB2E4."
+  BaseHP: 10
+  sprite: {fileID: 21300000, guid: 0e2f40ba2575f494c9c3f5c1a2a8f3e5, type: 3}
+  TypeIcon: {fileID: 1055190983170492755, guid: 308166162fdd9524cbea852d442c86e0, type: 3}

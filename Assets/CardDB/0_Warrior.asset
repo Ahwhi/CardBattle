@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec1f1bbc6c81b1249aa609416ef75af3, type: 3}
+  m_Name: 0_Warrior
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  ID: 0
+  Type: 0
+  Skill: 0
+  Name: "\uC804\uC0AC"
+  SkillDesc: "\uBC18\uACA9 \uD53C\uD574\uB97C \uBC1B\uC9C0 \uC54A\uACE0 \uACF5\uACA9\uD55C\uB2E4."
+  BaseHP: 10
+  sprite: {fileID: 21300000, guid: 7d74f9ac94dea6441ac742d768197b82, type: 3}
+  TypeIcon: {fileID: 1055190983170492755, guid: 308166162fdd9524cbea852d442c86e0, type: 3}

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3849915f5b3585d4ba79cc941f41ada2, type: 3}
+  m_Name: SfxDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::SfxDatabase
+  sfxEntries:
+  - Key: 0
+    Clip: {fileID: 8300000, guid: f74840955c9637b43b60460e6c893d20, type: 3}
+  - Key: 1
+    Clip: {fileID: 8300000, guid: b559762bc071c7f498d344e62570f0ea, type: 3}
+  - Key: 2
+    Clip: {fileID: 8300000, guid: 4c5500c35e98dd240a3a7f363d643786, type: 3}
+  - Key: 3
+    Clip: {fileID: 8300000, guid: 3505d2891f208de46992781f703632cb, type: 3}
+  - Key: 7
+    Clip: {fileID: 8300000, guid: 1cff1e997595f1d448302154bb69dfad, type: 3}
+  - Key: 5
+    Clip: {fileID: 8300000, guid: 3b8bc0ca04d22f04c97b260ee9cc39f3, type: 3}
+  - Key: 6
+    Clip: {fileID: 8300000, guid: 5a3d71ac96fde414d986c66aaa50bd0e, type: 3}
+  - Key: 10
+    Clip: {fileID: 8300000, guid: c47a382503baba8428d98c8d18f732b0, type: 3}
+  - Key: 8
+    Clip: {fileID: 8300000, guid: ae09617a1aaec8c47afc65df81a8e125, type: 3}
+  - Key: 9
+    Clip: {fileID: 8300000, guid: ea1902ff70d17e94f8642ade77e62180, type: 3}
+  bgmEntries:
+  - Key: 0
+    Clip: {fileID: 8300000, guid: 2db8fd54305235c4690691f707528d69, type: 3}
+  - Key: 1
+    Clip: {fileID: 8300000, guid: 524d88142e0ea134db11275a461a7d76, type: 3}

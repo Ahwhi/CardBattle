@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec1f1bbc6c81b1249aa609416ef75af3, type: 3}
+  m_Name: 7_Nurse
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  ID: 7
+  Type: 3
+  Skill: 7
+  Name: "\uAC04\uD638\uC0AC"
+  SkillDesc: "\uBAA8\uB4E0 \uCE90\uB9AD\uD130\uC758 \uCCB4\uB825\uC744 1 \uD68C\uBCF5\uC2DC\uD0A8\uB2E4."
+  BaseHP: 5
+  sprite: {fileID: 21300000, guid: 847b445f48d9fef48ab06ca307c9aac5, type: 3}
+  TypeIcon: {fileID: 572457068505989275, guid: 25dc4bab162564048b64a88330d3cf88, type: 3}

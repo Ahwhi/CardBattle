@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25e97e7eeadc6fe46847eef83cd02fdd, type: 3}
+  m_Name: DB
+  m_EditorClassIdentifier: Assembly-CSharp::CardDatabase
+  Cards:
+  - {fileID: 11400000, guid: dc2217a73bd040a4a81c38ccbf5ff79e, type: 2}
+  - {fileID: 11400000, guid: f249b9fbbce2bda4b8df6ef31ee78c3d, type: 2}
+  - {fileID: 11400000, guid: 129f9b1003491e74e996f53288546ea7, type: 2}
+  - {fileID: 11400000, guid: 2f5bbf6a4aa1a9741a5605b2c74c3a62, type: 2}
+  - {fileID: 11400000, guid: 603c9e1a1da2bdb43a489a6619ea8efc, type: 2}
+  - {fileID: 11400000, guid: 7c24d5ffc6af9cb48b603777d6d6655c, type: 2}
+  - {fileID: 11400000, guid: 0f4d5c43ba7782f4f81157b07a1e6fa7, type: 2}
+  - {fileID: 11400000, guid: ea00c7ebb30368e4aafcddcf18162113, type: 2}
